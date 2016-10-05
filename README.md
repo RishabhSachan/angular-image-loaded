@@ -3,7 +3,7 @@ custom directive for image loading event in angular
 
 How to Use it:
 
-**Working Demo** : https://plnkr.co/RTcD9r
+**Working Demo** :https://plnkr.co/edit/RTcD9r?p=preview
 
 
 1.Include js file in your project.
