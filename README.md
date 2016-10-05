@@ -3,6 +3,9 @@ custom directive for image loading event in angular
 
 How to Use it:
 
+**Working Demo** : https://plnkr.co/RTcD9r
+
+
 1.Include js file in your project.
 ```
 <script src="imageLoaded.js" type="text/javascript"/>
@@ -23,7 +26,6 @@ alert('image is loaded');
 ```
 <img ng-src="url-of-image" image-loaded>
 ```
-
 
 
 
